@@ -1,0 +1,6 @@
+1) to get ip address - in controller (HttpServletRequest request) and use request..getRemoteAddr();
+
+2) to reject a request - response.setStatus(HttpServletResponse.SC_FORBIDDEN);
+    and to attach a message - response.getWriter().write("Access denied: IP is blocked");
+
+3) once database is stable and setup is done make spring.jpa.hibernate.ddl-auto as validate to keep things stable during production
