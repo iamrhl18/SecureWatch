@@ -4,8 +4,8 @@
 
 SecureWatch is a REST API with an admin dashboard that doesn't just handle login and registration. It **watches what users do**, scores their behavior, and automatically blocks threats. Honeypot endpoints, brute force detection, new IP alerts, and rapid request tracking — all running silently on every request.
 
-> **Credits:** Originally created by **SneakySolo** and reused with their permission.
-> Maintained by **Rahul** ([GitHub: iamrhl18](https://github.com/iamrhl18) · [LinkedIn: iamrhl18](https://www.linkedin.com/in/iamrhl18)).
+
+> Created by **Rahul** ([GitHub: iamrhl18](https://github.com/iamrhl18) · [LinkedIn: iamrhl18](https://www.linkedin.com/in/iamrhl18)).
 > See [NOTICE](NOTICE) for details.
 
 ---
@@ -210,6 +210,5 @@ hit a decoy endpoint       → risk: 28  (+15) → AUTO BLOCKED ✓
 ---
 
 ## Developer
-
-**Kumar Aditya**
-[LinkedIn](https://www.linkedin.com/in/kumar-aditya-567403278/)
+**Rahul kumar**
+[LinkedIn: iamrhl18](https://www.linkedin.com/in/iamrhl18)).
